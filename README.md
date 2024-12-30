@@ -1,3 +1,10 @@
+Aplicação backend feita utilizando o microframework de nodejs, Fastify e o knex para criar as queries para armazenar dados em um banco de dados sqlite3.
+
+npm run dev para rodar aplicação
+npm run test para rodar os tests
+npm run build para fazer a build para deploy
+
+
 # RF
 - [x] O usuário deve poder criar uma nova transação;
 - [x] O usuário deve poder obter um resumo da sua conta;
